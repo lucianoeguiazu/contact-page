@@ -1,0 +1,29 @@
+.container {
+	width: 100%;
+	margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerPrincipal-titulo a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.headerPrincipal-nav{
+    display: flex;
+    justify-content: center;
+}
+
+.headerPrincipal-nav-link {
+	padding: 5px;
+	margin-bottom: 10px;
+	color: #e0b1cb;
+	text-decoration: none;
+	transition: .5s;
+	display: block;
+	border-bottom: 1px solid white;	
+	font-size: 12px;
+}
+

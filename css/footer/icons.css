@@ -1,0 +1,21 @@
+.rodapiePrincipal__redes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rodapiePrincipal__redes ul {
+    display: flex;
+    flex-direction: row;   
+    width: 70%;
+    justify-content: space-around;
+}
+
+.rodapiePrincipal__redes ul li a{
+    display: block;
+    padding: 0 10px;
+    color: #e0b1cb;
+    line-height: 25px;
+    font-size: 30px;
+} 

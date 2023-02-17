@@ -1,0 +1,16 @@
+
+.rodapiePrincipal__parrafo{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rodapiePrincipal__link{
+	color: #e0b1cb;
+	text-decoration: none;
+}
+
+.rodapiePrincipal__parrafo{
+	color: white;
+}
